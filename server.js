@@ -4570,5 +4570,3 @@ setupRoutes(app);
     console.log("Endpoint superinteligente: /api/process-chat-inteligente");
     console.log("SISTEMA SUPERINTELIGENTE IMPLANTADO COM SUCESSO!");
 });
-
-}
